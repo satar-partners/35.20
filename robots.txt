@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p3250.ru/sitemap.xml
